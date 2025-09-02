@@ -60,7 +60,3 @@ The analysis equips hotel management with actionable insights to **maximize reve
 - 👥 Apply clustering to segment customers by booking behavior  
 - 📈 Create interactive dashboards using **Power BI / Tableau**  
 
----
-
-## 🙌 Acknowledgments  
-Dataset inspired by the **Hospitality Analytics (AtliQ Hotels)** use case.  
