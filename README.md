@@ -32,7 +32,7 @@ The dataset includes multiple CSV files:
 ## 🚀 How to Run  
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/hospitality-eda.git
+  [Hospitality.ipynb](https://github.com/user-attachments/files/22101132/Hospitality.ipynb)
 
 ## 📌 Future Scope
 -Build predictive models for demand forecasting.
