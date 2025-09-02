@@ -6,14 +6,6 @@ The goal is to uncover **actionable business insights** from booking, hotel, roo
 
 ---
 
-## 🎯 Objectives  
-✔️ Clean and prepare raw hotel booking data for analysis  
-✔️ Explore **city-wise demand**, **room type preferences**, and **platform performance**  
-✔️ Visualize **seasonal booking trends** and customer behavior  
-✔️ Deliver insights that support **pricing, marketing, and capacity planning**  
-
----
-
 ## 🛠️ Tech Stack  
 
 <p align="center">
@@ -27,6 +19,14 @@ The goal is to uncover **actionable business insights** from booking, hotel, roo
   <img src="https://img.shields.io/badge/Seaborn-5B5EA6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
+
+---
+
+## 🎯 Objectives  
+✔️ Clean and prepare raw hotel booking data for analysis  
+✔️ Explore **city-wise demand**, **room type preferences**, and **platform performance**  
+✔️ Visualize **seasonal booking trends** and customer behavior  
+✔️ Deliver insights that support **pricing, marketing, and capacity planning**  
 
 ---
 
