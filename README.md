@@ -33,3 +33,8 @@ The dataset includes multiple CSV files:
 1. Clone this repository  
    ```bash
    git clone https://github.com/your-username/hospitality-eda.git
+
+## 📌 Future Scope
+-Build predictive models for demand forecasting
+-Apply clustering to segment customers by booking behavior
+-Create interactive dashboards using Power BI or Tableau
